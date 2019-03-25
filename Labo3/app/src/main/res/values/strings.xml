@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Labo3</string>
+    <string name="nombre">Nombre</string>
+    <string name="email">email</string>
+    <string name="password">Contraseña</string>
+    <string name="title">REGISTRARSE</string>
+    <string name="genero">Genero</string>
+    <string name="send">Send</string>
+    <string name="title2">REGISTRO</string>
+</resources>

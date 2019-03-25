@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="d1">45dp</dimen>
+    <dimen name="d_btn">15dp</dimen>
+    <dimen name="mgt">35dp</dimen>
+    <dimen name="d2">15dp</dimen>
+</resources>
